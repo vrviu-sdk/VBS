@@ -14,9 +14,7 @@ V1.0
 并获得了威尔定制版本的VBS推流工具。
 
 * 推流PC硬件支持 ：NVIDIA 960M及以上显卡 
-支持相机 ：ZCAM™ K1 Pro 
-
-* http://www.z-cam.com/180-vr-camera-k1-pro/*
+支持相机 ：ZCAM™ K1 Pro http://www.z-cam.com/180-vr-camera-k1-pro/
 * 注：本软件支持本地模拟数据，也支持通过VR相机实时输入
 
 ![](./Image/P01.png)
