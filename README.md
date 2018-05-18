@@ -62,7 +62,7 @@ V1.0
 ![](./Image/P02.png)
 
 * 本地模拟视频源下载地址 
-*https://viuencv-in.oss-cn-shenzhen.aliyuncs.com/outvideo/VBS_Custom_video.zip*  （ 版权归深圳威尔视觉传媒有限公司所有 ）
+*https://viuencv-in.oss-cn-shenzhen.aliyuncs.com/outvideo/VBS_Custom_video.zip*  
 * 解压文件夹simulationData 覆盖到 ../VBS/bin/64bit 即可。
 * 重复 2 -（5）操作， “Detect”后，会显示录制好的模拟视频。
 
