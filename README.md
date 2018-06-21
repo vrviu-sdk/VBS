@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Powered%20by-vrviu.com-brightgreen.svg)](https://vrviu.com)
 
 ## 版本
-V1.0
+20180511  V1.0发布
 
 ## 功能说明
 威尔定制版本的VBS直播工具，专门针对180°3D VR直播的推流软件。
@@ -20,10 +20,8 @@ V1.0
 ![](./Image/P01.png)
 
 ## 联系方式
-* 邮箱： business@vrviu.com     
-* 电话：0755-8696 0615   
-* 微信公众号： 威尔云           
-* 微信：vrviu001
+ 如果有技术问题咨询，请加入官方QQ群：136562408；   
+ 商务合作请电话：0755-86960615；邮箱：business@vrviu.com；或者至[官网](http://www.vrviu.com)"联系我们" 。  
 
 
 ## 使用步骤
