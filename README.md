@@ -97,7 +97,7 @@
 
 推流地址URL ： **rtmp://9870.livepush.myqcloud.com/live** 
 
-流名称（key）：**9870_333c727a57?bizid=9870&txSecret=867ec2e82b6f3c4539ff4b879d017816&txTime=5B06E17F**
+流名称（key）：**9870_b560f88603?bizid=9870&txSecret=e1719c46cddcf17fad8f6b2e763839c4&txTime=5B37A8FF**
 
 *（ 注：地址前后没有空格，若地址失效，可联系威尔技术团队免费获取 ）*
 
